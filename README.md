@@ -1,7 +1,7 @@
 Summary
 --
 
-Lockable blue hand functionality for nine sets of eight [Midi Touchbar](https://urbanlienert.com/miditouchbar/) faders
+Lockable [blue hand functionality](https://help.ableton.com/hc/en-us/articles/206240184-Creating-your-own-Control-Surface-script) for nine sets of eight [Midi Touchbar](https://urbanlienert.com/miditouchbar/) faders
 
 <img src='./images/midi_touchbar_faders_default.png' />
 <img src='./images/midi_touchbar_faders_toggle.png' />
