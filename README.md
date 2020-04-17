@@ -20,6 +20,6 @@ Windows: C:\Users\[Username]\AppData\Roaming\Ableton\Live x.x.x\Preferences\User
 
 <img width='640' src='./images/ableton_preferences.png' />
 
-3. Load `midi_touchbar_settings.xml` puts magnesium faders on each channel (probably want to color them)
+3. Load `midi_touchbar_settings_magnesium.xml` puts magnesium faders on each channel (probably want to color them)
 
 <img width='240' src='./images/midi_touchbar_load_settings.png' />
